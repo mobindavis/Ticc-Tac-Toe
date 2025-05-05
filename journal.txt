@@ -1,0 +1,2 @@
+[2024-05-01] Meeting: Discussed design patterns
+[2024-05-02] Coding: Implemented SRP
